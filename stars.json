@@ -13,13 +13,13 @@
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38652,
-    "open_issues_count": 887,
+    "stargazers_count": 38661,
+    "open_issues_count": 886,
     "forks_count": 3943
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7702,
+    "stargazers_count": 7705,
     "open_issues_count": 372,
     "forks_count": 668
   },
@@ -33,11 +33,11 @@
     "full_name": "cba85/electron-webview",
     "stargazers_count": 190,
     "open_issues_count": 1,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "google/flutter-desktop-embedding",
-    "stargazers_count": 6960,
+    "stargazers_count": 6961,
     "open_issues_count": 4,
     "forks_count": 576
   },
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 67757,
-    "open_issues_count": 1659,
-    "forks_count": 6945
+    "stargazers_count": 67826,
+    "open_issues_count": 1652,
+    "forks_count": 6957
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 49812,
-    "open_issues_count": 606,
-    "forks_count": 19986
+    "stargazers_count": 49824,
+    "open_issues_count": 599,
+    "forks_count": 20000
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 43856,
-    "open_issues_count": 168,
-    "forks_count": 9657
+    "stargazers_count": 43874,
+    "open_issues_count": 170,
+    "forks_count": 9661
   },
   {
     "full_name": "JoonasN/Flutter-Speed-coding---Greenery-App",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12000,
+    "stargazers_count": 12008,
     "open_issues_count": 9,
-    "forks_count": 768
+    "forks_count": 772
   }
 ]
