@@ -13,20 +13,20 @@
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38678,
-    "open_issues_count": 881,
+    "stargazers_count": 38683,
+    "open_issues_count": 880,
     "forks_count": 3942
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7721,
-    "open_issues_count": 372,
+    "stargazers_count": 7722,
+    "open_issues_count": 373,
     "forks_count": 671
   },
   {
     "full_name": "Tencent/QMUI_Web",
-    "stargazers_count": 1722,
-    "open_issues_count": 4,
+    "stargazers_count": 1721,
+    "open_issues_count": 5,
     "forks_count": 251
   },
   {
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "google/flutter-desktop-embedding",
-    "stargazers_count": 6966,
+    "stargazers_count": 6967,
     "open_issues_count": 4,
     "forks_count": 577
   },
@@ -49,20 +49,20 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 67981,
-    "open_issues_count": 1631,
-    "forks_count": 6981
+    "stargazers_count": 68081,
+    "open_issues_count": 1620,
+    "forks_count": 6993
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 49892,
-    "open_issues_count": 589,
-    "forks_count": 20024
+    "stargazers_count": 49919,
+    "open_issues_count": 599,
+    "forks_count": 20039
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 43915,
-    "open_issues_count": 168,
+    "stargazers_count": 43923,
+    "open_issues_count": 169,
     "forks_count": 9670
   },
   {
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12037,
+    "stargazers_count": 12051,
     "open_issues_count": 9,
-    "forks_count": 771
+    "forks_count": 770
   }
 ]
