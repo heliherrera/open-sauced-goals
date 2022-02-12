@@ -7,63 +7,63 @@
   },
   {
     "full_name": "mrflix/dimensions",
-    "stargazers_count": 721,
+    "stargazers_count": 724,
     "open_issues_count": 11,
     "forks_count": 69
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38711,
-    "open_issues_count": 883,
+    "stargazers_count": 38719,
+    "open_issues_count": 882,
     "forks_count": 3946
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7763,
-    "open_issues_count": 378,
-    "forks_count": 675
+    "stargazers_count": 7768,
+    "open_issues_count": 380,
+    "forks_count": 677
   },
   {
     "full_name": "Tencent/QMUI_Web",
     "stargazers_count": 1721,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 250
   },
   {
     "full_name": "cba85/electron-webview",
-    "stargazers_count": 196,
+    "stargazers_count": 197,
     "open_issues_count": 2,
-    "forks_count": 49
+    "forks_count": 51
   },
   {
     "full_name": "google/flutter-desktop-embedding",
-    "stargazers_count": 6980,
+    "stargazers_count": 6981,
     "open_issues_count": 4,
     "forks_count": 577
   },
   {
     "full_name": "qeesung/HighlightBracketPair",
-    "stargazers_count": 486,
+    "stargazers_count": 485,
     "open_issues_count": 18,
     "forks_count": 26
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 68641,
-    "open_issues_count": 1648,
-    "forks_count": 7075
+    "stargazers_count": 68717,
+    "open_issues_count": 1666,
+    "forks_count": 7089
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 50108,
-    "open_issues_count": 583,
-    "forks_count": 20109
+    "stargazers_count": 50127,
+    "open_issues_count": 600,
+    "forks_count": 20118
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 44074,
-    "open_issues_count": 174,
-    "forks_count": 9701
+    "stargazers_count": 44089,
+    "open_issues_count": 177,
+    "forks_count": 9703
   },
   {
     "full_name": "JoonasN/Flutter-Speed-coding---Greenery-App",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12159,
-    "open_issues_count": 10,
-    "forks_count": 780
+    "stargazers_count": 12175,
+    "open_issues_count": 11,
+    "forks_count": 785
   }
 ]
