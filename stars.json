@@ -8,20 +8,20 @@
   {
     "full_name": "mrflix/dimensions",
     "stargazers_count": 722,
-    "open_issues_count": 11,
+    "open_issues_count": 12,
     "forks_count": 70
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38744,
-    "open_issues_count": 886,
-    "forks_count": 3947
+    "stargazers_count": 38746,
+    "open_issues_count": 887,
+    "forks_count": 3949
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7801,
-    "open_issues_count": 381,
-    "forks_count": 680
+    "stargazers_count": 7812,
+    "open_issues_count": 382,
+    "forks_count": 681
   },
   {
     "full_name": "Tencent/QMUI_Web",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "cba85/electron-webview",
-    "stargazers_count": 199,
+    "stargazers_count": 200,
     "open_issues_count": 2,
     "forks_count": 53
   },
   {
     "full_name": "google/flutter-desktop-embedding",
-    "stargazers_count": 6986,
+    "stargazers_count": 6991,
     "open_issues_count": 4,
-    "forks_count": 579
+    "forks_count": 578
   },
   {
     "full_name": "qeesung/HighlightBracketPair",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 69003,
-    "open_issues_count": 1689,
-    "forks_count": 7137
+    "stargazers_count": 69094,
+    "open_issues_count": 1690,
+    "forks_count": 7147
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 50223,
-    "open_issues_count": 594,
-    "forks_count": 20160
+    "stargazers_count": 50243,
+    "open_issues_count": 610,
+    "forks_count": 20169
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 44167,
-    "open_issues_count": 178,
-    "forks_count": 9713
+    "stargazers_count": 44189,
+    "open_issues_count": 177,
+    "forks_count": 9717
   },
   {
     "full_name": "JoonasN/Flutter-Speed-coding---Greenery-App",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12275,
-    "open_issues_count": 12,
-    "forks_count": 796
+    "stargazers_count": 12292,
+    "open_issues_count": 7,
+    "forks_count": 798
   }
 ]
