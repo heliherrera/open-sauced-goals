@@ -9,19 +9,19 @@
     "full_name": "mrflix/dimensions",
     "stargazers_count": 725,
     "open_issues_count": 11,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "nwjs/nw.js",
-    "stargazers_count": 38855,
-    "open_issues_count": 901,
-    "forks_count": 3964
+    "stargazers_count": 38864,
+    "open_issues_count": 899,
+    "forks_count": 3967
   },
   {
     "full_name": "graphql/graphql-playground",
-    "stargazers_count": 7896,
-    "open_issues_count": 385,
-    "forks_count": 686
+    "stargazers_count": 7916,
+    "open_issues_count": 387,
+    "forks_count": 688
   },
   {
     "full_name": "Tencent/QMUI_Web",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "cba85/electron-webview",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 1,
     "forks_count": 54
   },
   {
     "full_name": "google/flutter-desktop-embedding",
-    "stargazers_count": 7000,
+    "stargazers_count": 7002,
     "open_issues_count": 4,
-    "forks_count": 589
+    "forks_count": 590
   },
   {
     "full_name": "qeesung/HighlightBracketPair",
@@ -49,21 +49,21 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 70458,
-    "open_issues_count": 1807,
-    "forks_count": 7281
+    "stargazers_count": 70554,
+    "open_issues_count": 1827,
+    "forks_count": 7287
   },
   {
     "full_name": "rails/rails",
-    "stargazers_count": 50572,
-    "open_issues_count": 609,
-    "forks_count": 20283
+    "stargazers_count": 50598,
+    "open_issues_count": 606,
+    "forks_count": 20291
   },
   {
     "full_name": "jekyll/jekyll",
-    "stargazers_count": 44490,
+    "stargazers_count": 44518,
     "open_issues_count": 181,
-    "forks_count": 9761
+    "forks_count": 9770
   },
   {
     "full_name": "JoonasN/Flutter-Speed-coding---Greenery-App",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "Foundry376/Mailspring",
-    "stargazers_count": 12557,
-    "open_issues_count": 7,
+    "stargazers_count": 12587,
+    "open_issues_count": 8,
     "forks_count": 808
   }
 ]
